@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GraphPaths</string>
+    <string name="info">Info</string>
+
+    <string-array name="methods">
+        <item>Deikstra search path</item>
+        <item>Shimbell search paths</item>
+        <item>Brunches&amp;Bounds (Gamilton contour)</item>
+        <item>Yau, Danielson, Dhawan (Gamilton contour)</item>
+    </string-array>
+
+    <string name="calc">Calculate</string>
+
+</resources>
